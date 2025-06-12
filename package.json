@@ -1,12 +1,12 @@
 {
   "name": "tailwind-react-starter",
   "version": "1.0.0",
+  "homepage": "https://SDeath-Scythe.github.io/GoalQuest/",
   "scripts": {
-  "build": "vite build",
-  "preview": "vite preview",
-  "deploy": "vite build && gh-pages -d dist"
-}
-,
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "vite build && gh-pages -d dist"
+  },
   "dependencies": {
     "@react-three/drei": "^9.122.0",
     "@react-three/fiber": "^8.18.0",
